@@ -1,0 +1,99 @@
+C:\Users\paren\OneDrive - triOS College\Desktop\C#\MusicLessonSiteApi\MusicLessonSiteApi\obj\Debug\net8.0\MusicLessonSiteApi.csproj.AssemblyReference.cache
+C:\Users\paren\OneDrive - triOS College\Desktop\C#\MusicLessonSiteApi\MusicLessonSiteApi\obj\Debug\net8.0\MusicLessonSiteApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paren\OneDrive - triOS College\Desktop\C#\MusicLessonSiteApi\MusicLessonSiteApi\obj\Debug\net8.0\MusicLessonSiteApi.AssemblyInfoInputs.cache
+C:\Users\paren\OneDrive - triOS College\Desktop\C#\MusicLessonSiteApi\MusicLessonSiteApi\obj\Debug\net8.0\MusicLessonSiteApi.AssemblyInfo.cs
+C:\Users\paren\OneDrive - triOS College\Desktop\C#\MusicLessonSiteApi\MusicLessonSiteApi\obj\Debug\net8.0\MusicLessonSiteApi.csproj.CoreCompileInputs.cache
+C:\Users\paren\OneDrive - triOS College\Desktop\C#\MusicLessonSiteApi\MusicLessonSiteApi\obj\Debug\net8.0\MusicLessonSiteApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\paren\OneDrive - triOS College\Desktop\C#\MusicLessonSiteApi\MusicLessonSiteApi\obj\Debug\net8.0\MusicLessonSiteApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\paren\OneDrive - triOS College\Desktop\C#\MusicLessonSiteApi\MusicLessonSiteApi\obj\Debug\net8.0\MusicLessonSiteApi.sourcelink.json
+C:\Users\paren\OneDrive - triOS College\Desktop\C#\MusicLessonSiteApi\MusicLessonSiteApi\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\paren\OneDrive - triOS College\Desktop\C#\MusicLessonSiteApi\MusicLessonSiteApi\bin\Debug\net8.0\appsettings.json
+C:\Users\paren\OneDrive - triOS College\Desktop\C#\MusicLessonSiteApi\MusicLessonSiteApi\bin\Debug\net8.0\MusicLessonSiteApi.exe
+C:\Users\paren\OneDrive - triOS College\Desktop\C#\MusicLessonSiteApi\MusicLessonSiteApi\bin\Debug\net8.0\MusicLessonSiteApi.deps.json
+C:\Users\paren\OneDrive - triOS College\Desktop\C#\MusicLessonSiteApi\MusicLessonSiteApi\bin\Debug\net8.0\MusicLessonSiteApi.runtimeconfig.json
+C:\Users\paren\OneDrive - triOS College\Desktop\C#\MusicLessonSiteApi\MusicLessonSiteApi\bin\Debug\net8.0\MusicLessonSiteApi.dll
+C:\Users\paren\OneDrive - triOS College\Desktop\C#\MusicLessonSiteApi\MusicLessonSiteApi\bin\Debug\net8.0\MusicLessonSiteApi.pdb
+C:\Users\paren\OneDrive - triOS College\Desktop\C#\MusicLessonSiteApi\MusicLessonSiteApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\paren\OneDrive - triOS College\Desktop\C#\MusicLessonSiteApi\MusicLessonSiteApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\paren\OneDrive - triOS College\Desktop\C#\MusicLessonSiteApi\MusicLessonSiteApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\paren\OneDrive - triOS College\Desktop\C#\MusicLessonSiteApi\MusicLessonSiteApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\paren\OneDrive - triOS College\Desktop\C#\MusicLessonSiteApi\MusicLessonSiteApi\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\paren\OneDrive - triOS College\Desktop\C#\MusicLessonSiteApi\MusicLessonSiteApi\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\paren\OneDrive - triOS College\Desktop\C#\MusicLessonSiteApi\MusicLessonSiteApi\obj\Debug\net8.0\staticwebassets\msbuild.MusicLessonSiteApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\paren\OneDrive - triOS College\Desktop\C#\MusicLessonSiteApi\MusicLessonSiteApi\obj\Debug\net8.0\staticwebassets\msbuild.build.MusicLessonSiteApi.props
+C:\Users\paren\OneDrive - triOS College\Desktop\C#\MusicLessonSiteApi\MusicLessonSiteApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.MusicLessonSiteApi.props
+C:\Users\paren\OneDrive - triOS College\Desktop\C#\MusicLessonSiteApi\MusicLessonSiteApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.MusicLessonSiteApi.props
+C:\Users\paren\OneDrive - triOS College\Desktop\C#\MusicLessonSiteApi\MusicLessonSiteApi\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\paren\OneDrive - triOS College\Desktop\C#\MusicLessonSiteApi\MusicLessonSiteApi\obj\Debug\net8.0\scopedcss\bundle\MusicLessonSiteApi.styles.css
+C:\Users\paren\OneDrive - triOS College\Desktop\C#\MusicLessonSiteApi\MusicLessonSiteApi\obj\Debug\net8.0\MusicLessonSiteApi.csproj.CopyComplete
+C:\Users\paren\OneDrive - triOS College\Desktop\C#\MusicLessonSiteApi\MusicLessonSiteApi\obj\Debug\net8.0\MusicLessonSiteApi.dll
+C:\Users\paren\OneDrive - triOS College\Desktop\C#\MusicLessonSiteApi\MusicLessonSiteApi\obj\Debug\net8.0\refint\MusicLessonSiteApi.dll
+C:\Users\paren\OneDrive - triOS College\Desktop\C#\MusicLessonSiteApi\MusicLessonSiteApi\obj\Debug\net8.0\MusicLessonSiteApi.pdb
+C:\Users\paren\OneDrive - triOS College\Desktop\C#\MusicLessonSiteApi\MusicLessonSiteApi\obj\Debug\net8.0\MusicLessonSiteApi.genruntimeconfig.cache
+C:\Users\paren\OneDrive - triOS College\Desktop\C#\MusicLessonSiteApi\MusicLessonSiteApi\obj\Debug\net8.0\ref\MusicLessonSiteApi.dll
+C:\Users\louise\source\repos\MusicLessonSiteApi\MusicLessonSiteApi\obj\Debug\net8.0\MusicLessonSiteApi.csproj.AssemblyReference.cache
+C:\Users\louise\source\repos\MusicLessonSiteApi\MusicLessonSiteApi\obj\Debug\net8.0\MusicLessonSiteApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\louise\source\repos\MusicLessonSiteApi\MusicLessonSiteApi\obj\Debug\net8.0\MusicLessonSiteApi.AssemblyInfoInputs.cache
+C:\Users\louise\source\repos\MusicLessonSiteApi\MusicLessonSiteApi\obj\Debug\net8.0\MusicLessonSiteApi.AssemblyInfo.cs
+C:\Users\louise\source\repos\MusicLessonSiteApi\MusicLessonSiteApi\obj\Debug\net8.0\MusicLessonSiteApi.csproj.CoreCompileInputs.cache
+C:\Users\louise\source\repos\MusicLessonSiteApi\MusicLessonSiteApi\obj\Debug\net8.0\MusicLessonSiteApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\louise\source\repos\MusicLessonSiteApi\MusicLessonSiteApi\obj\Debug\net8.0\MusicLessonSiteApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\louise\source\repos\MusicLessonSiteApi\MusicLessonSiteApi\obj\Debug\net8.0\MusicLessonSiteApi.sourcelink.json
+C:\Users\louise\source\repos\MusicLessonSiteApi\MusicLessonSiteApi\obj\Debug\net8.0\MusicLessonSiteApi.dll
+C:\Users\louise\source\repos\MusicLessonSiteApi\MusicLessonSiteApi\obj\Debug\net8.0\refint\MusicLessonSiteApi.dll
+C:\Users\louise\source\repos\MusicLessonSiteApi\MusicLessonSiteApi\obj\Debug\net8.0\MusicLessonSiteApi.pdb
+C:\Users\louise\source\repos\MusicLessonSiteApi\MusicLessonSiteApi\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\louise\source\repos\MusicLessonSiteApi\MusicLessonSiteApi\bin\Debug\net8.0\appsettings.json
+C:\Users\louise\source\repos\MusicLessonSiteApi\MusicLessonSiteApi\bin\Debug\net8.0\MusicLessonSiteApi.exe
+C:\Users\louise\source\repos\MusicLessonSiteApi\MusicLessonSiteApi\bin\Debug\net8.0\MusicLessonSiteApi.deps.json
+C:\Users\louise\source\repos\MusicLessonSiteApi\MusicLessonSiteApi\bin\Debug\net8.0\MusicLessonSiteApi.runtimeconfig.json
+C:\Users\louise\source\repos\MusicLessonSiteApi\MusicLessonSiteApi\bin\Debug\net8.0\MusicLessonSiteApi.dll
+C:\Users\louise\source\repos\MusicLessonSiteApi\MusicLessonSiteApi\bin\Debug\net8.0\MusicLessonSiteApi.pdb
+C:\Users\louise\source\repos\MusicLessonSiteApi\MusicLessonSiteApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\louise\source\repos\MusicLessonSiteApi\MusicLessonSiteApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\louise\source\repos\MusicLessonSiteApi\MusicLessonSiteApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\louise\source\repos\MusicLessonSiteApi\MusicLessonSiteApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\louise\source\repos\MusicLessonSiteApi\MusicLessonSiteApi\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\louise\source\repos\MusicLessonSiteApi\MusicLessonSiteApi\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\louise\source\repos\MusicLessonSiteApi\MusicLessonSiteApi\obj\Debug\net8.0\staticwebassets\msbuild.MusicLessonSiteApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\louise\source\repos\MusicLessonSiteApi\MusicLessonSiteApi\obj\Debug\net8.0\staticwebassets\msbuild.build.MusicLessonSiteApi.props
+C:\Users\louise\source\repos\MusicLessonSiteApi\MusicLessonSiteApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.MusicLessonSiteApi.props
+C:\Users\louise\source\repos\MusicLessonSiteApi\MusicLessonSiteApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.MusicLessonSiteApi.props
+C:\Users\louise\source\repos\MusicLessonSiteApi\MusicLessonSiteApi\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\louise\source\repos\MusicLessonSiteApi\MusicLessonSiteApi\obj\Debug\net8.0\scopedcss\bundle\MusicLessonSiteApi.styles.css
+C:\Users\louise\source\repos\MusicLessonSiteApi\MusicLessonSiteApi\obj\Debug\net8.0\MusicLessonSiteApi.csproj.CopyComplete
+C:\Users\louise\source\repos\MusicLessonSiteApi\MusicLessonSiteApi\obj\Debug\net8.0\MusicLessonSiteApi.genruntimeconfig.cache
+C:\Users\louise\source\repos\MusicLessonSiteApi\MusicLessonSiteApi\obj\Debug\net8.0\ref\MusicLessonSiteApi.dll
+C:\Users\paren\OneDrive - triOS College\Desktop\MusicLessonSiteApi-fixed\MusicLessonSiteApi\MusicLessonSiteApi\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\paren\OneDrive - triOS College\Desktop\MusicLessonSiteApi-fixed\MusicLessonSiteApi\MusicLessonSiteApi\bin\Debug\net8.0\appsettings.json
+C:\Users\paren\OneDrive - triOS College\Desktop\MusicLessonSiteApi-fixed\MusicLessonSiteApi\MusicLessonSiteApi\bin\Debug\net8.0\MusicLessonSiteApi.exe
+C:\Users\paren\OneDrive - triOS College\Desktop\MusicLessonSiteApi-fixed\MusicLessonSiteApi\MusicLessonSiteApi\bin\Debug\net8.0\MusicLessonSiteApi.deps.json
+C:\Users\paren\OneDrive - triOS College\Desktop\MusicLessonSiteApi-fixed\MusicLessonSiteApi\MusicLessonSiteApi\bin\Debug\net8.0\MusicLessonSiteApi.runtimeconfig.json
+C:\Users\paren\OneDrive - triOS College\Desktop\MusicLessonSiteApi-fixed\MusicLessonSiteApi\MusicLessonSiteApi\bin\Debug\net8.0\MusicLessonSiteApi.dll
+C:\Users\paren\OneDrive - triOS College\Desktop\MusicLessonSiteApi-fixed\MusicLessonSiteApi\MusicLessonSiteApi\bin\Debug\net8.0\MusicLessonSiteApi.pdb
+C:\Users\paren\OneDrive - triOS College\Desktop\MusicLessonSiteApi-fixed\MusicLessonSiteApi\MusicLessonSiteApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\paren\OneDrive - triOS College\Desktop\MusicLessonSiteApi-fixed\MusicLessonSiteApi\MusicLessonSiteApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\paren\OneDrive - triOS College\Desktop\MusicLessonSiteApi-fixed\MusicLessonSiteApi\MusicLessonSiteApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\paren\OneDrive - triOS College\Desktop\MusicLessonSiteApi-fixed\MusicLessonSiteApi\MusicLessonSiteApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\paren\OneDrive - triOS College\Desktop\MusicLessonSiteApi-fixed\MusicLessonSiteApi\MusicLessonSiteApi\obj\Debug\net8.0\MusicLessonSiteApi.csproj.AssemblyReference.cache
+C:\Users\paren\OneDrive - triOS College\Desktop\MusicLessonSiteApi-fixed\MusicLessonSiteApi\MusicLessonSiteApi\obj\Debug\net8.0\MusicLessonSiteApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paren\OneDrive - triOS College\Desktop\MusicLessonSiteApi-fixed\MusicLessonSiteApi\MusicLessonSiteApi\obj\Debug\net8.0\MusicLessonSiteApi.AssemblyInfoInputs.cache
+C:\Users\paren\OneDrive - triOS College\Desktop\MusicLessonSiteApi-fixed\MusicLessonSiteApi\MusicLessonSiteApi\obj\Debug\net8.0\MusicLessonSiteApi.AssemblyInfo.cs
+C:\Users\paren\OneDrive - triOS College\Desktop\MusicLessonSiteApi-fixed\MusicLessonSiteApi\MusicLessonSiteApi\obj\Debug\net8.0\MusicLessonSiteApi.csproj.CoreCompileInputs.cache
+C:\Users\paren\OneDrive - triOS College\Desktop\MusicLessonSiteApi-fixed\MusicLessonSiteApi\MusicLessonSiteApi\obj\Debug\net8.0\MusicLessonSiteApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\paren\OneDrive - triOS College\Desktop\MusicLessonSiteApi-fixed\MusicLessonSiteApi\MusicLessonSiteApi\obj\Debug\net8.0\MusicLessonSiteApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\paren\OneDrive - triOS College\Desktop\MusicLessonSiteApi-fixed\MusicLessonSiteApi\MusicLessonSiteApi\obj\Debug\net8.0\MusicLessonSiteApi.sourcelink.json
+C:\Users\paren\OneDrive - triOS College\Desktop\MusicLessonSiteApi-fixed\MusicLessonSiteApi\MusicLessonSiteApi\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\paren\OneDrive - triOS College\Desktop\MusicLessonSiteApi-fixed\MusicLessonSiteApi\MusicLessonSiteApi\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\paren\OneDrive - triOS College\Desktop\MusicLessonSiteApi-fixed\MusicLessonSiteApi\MusicLessonSiteApi\obj\Debug\net8.0\staticwebassets\msbuild.MusicLessonSiteApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\paren\OneDrive - triOS College\Desktop\MusicLessonSiteApi-fixed\MusicLessonSiteApi\MusicLessonSiteApi\obj\Debug\net8.0\staticwebassets\msbuild.build.MusicLessonSiteApi.props
+C:\Users\paren\OneDrive - triOS College\Desktop\MusicLessonSiteApi-fixed\MusicLessonSiteApi\MusicLessonSiteApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.MusicLessonSiteApi.props
+C:\Users\paren\OneDrive - triOS College\Desktop\MusicLessonSiteApi-fixed\MusicLessonSiteApi\MusicLessonSiteApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.MusicLessonSiteApi.props
+C:\Users\paren\OneDrive - triOS College\Desktop\MusicLessonSiteApi-fixed\MusicLessonSiteApi\MusicLessonSiteApi\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\paren\OneDrive - triOS College\Desktop\MusicLessonSiteApi-fixed\MusicLessonSiteApi\MusicLessonSiteApi\obj\Debug\net8.0\scopedcss\bundle\MusicLessonSiteApi.styles.css
+C:\Users\paren\OneDrive - triOS College\Desktop\MusicLessonSiteApi-fixed\MusicLessonSiteApi\MusicLessonSiteApi\obj\Debug\net8.0\MusicLessonSiteApi.csproj.CopyComplete
+C:\Users\paren\OneDrive - triOS College\Desktop\MusicLessonSiteApi-fixed\MusicLessonSiteApi\MusicLessonSiteApi\obj\Debug\net8.0\MusicLessonSiteApi.dll
+C:\Users\paren\OneDrive - triOS College\Desktop\MusicLessonSiteApi-fixed\MusicLessonSiteApi\MusicLessonSiteApi\obj\Debug\net8.0\refint\MusicLessonSiteApi.dll
+C:\Users\paren\OneDrive - triOS College\Desktop\MusicLessonSiteApi-fixed\MusicLessonSiteApi\MusicLessonSiteApi\obj\Debug\net8.0\MusicLessonSiteApi.pdb
+C:\Users\paren\OneDrive - triOS College\Desktop\MusicLessonSiteApi-fixed\MusicLessonSiteApi\MusicLessonSiteApi\obj\Debug\net8.0\MusicLessonSiteApi.genruntimeconfig.cache
+C:\Users\paren\OneDrive - triOS College\Desktop\MusicLessonSiteApi-fixed\MusicLessonSiteApi\MusicLessonSiteApi\obj\Debug\net8.0\ref\MusicLessonSiteApi.dll
